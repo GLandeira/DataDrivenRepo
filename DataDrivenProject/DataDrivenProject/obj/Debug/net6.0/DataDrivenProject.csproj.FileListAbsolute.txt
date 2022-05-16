@@ -1,0 +1,12 @@
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\bin\Debug\net6.0\DataDrivenProject.deps.json
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\bin\Debug\net6.0\DataDrivenProject.dll
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\bin\Debug\net6.0\DataDrivenProject.pdb
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.csproj.AssemblyReference.cache
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.AssemblyInfoInputs.cache
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.AssemblyInfo.cs
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.csproj.CoreCompileInputs.cache
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.dll
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\refint\DataDrivenProject.dll
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\DataDrivenProject.pdb
+G:\Repositories\DataDrivenRepo\DataDrivenProject\DataDrivenProject\obj\Debug\net6.0\ref\DataDrivenProject.dll

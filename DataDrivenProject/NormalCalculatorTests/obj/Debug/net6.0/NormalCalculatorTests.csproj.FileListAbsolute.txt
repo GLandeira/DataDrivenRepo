@@ -1,0 +1,6 @@
+G:\Repositories\DataDrivenRepo\DataDrivenProject\NormalCalculatorTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+G:\Repositories\DataDrivenRepo\DataDrivenProject\NormalCalculatorTests\obj\Debug\net6.0\NormalCalculatorTests.csproj.AssemblyReference.cache
+G:\Repositories\DataDrivenRepo\DataDrivenProject\NormalCalculatorTests\obj\Debug\net6.0\NormalCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositories\DataDrivenRepo\DataDrivenProject\NormalCalculatorTests\obj\Debug\net6.0\NormalCalculatorTests.AssemblyInfoInputs.cache
+G:\Repositories\DataDrivenRepo\DataDrivenProject\NormalCalculatorTests\obj\Debug\net6.0\NormalCalculatorTests.AssemblyInfo.cs
+G:\Repositories\DataDrivenRepo\DataDrivenProject\NormalCalculatorTests\obj\Debug\net6.0\NormalCalculatorTests.csproj.CoreCompileInputs.cache
