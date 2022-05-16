@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\bin\Debug\net472\DataDrivenProject.dll
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\bin\Debug\net472\DataDrivenProject.pdb
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.dll
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net472\DataDrivenProject.pdb

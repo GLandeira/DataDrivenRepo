@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTO+hBvF3c47BCsET0MyS0vvm/W+cGSVfXWphdZTYpZUCCxKeUx+BHRA+xn/bq9w9UWRQfKQoKbluuErks7Klg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataBaseCalculatorTests\\DataBaseCalculatorTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

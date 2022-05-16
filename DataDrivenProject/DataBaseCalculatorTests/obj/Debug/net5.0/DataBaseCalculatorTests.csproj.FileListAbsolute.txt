@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataBaseCalculatorTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataBaseCalculatorTests\obj\Debug\net5.0\DataBaseCalculatorTests.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataBaseCalculatorTests\obj\Debug\net5.0\DataBaseCalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataBaseCalculatorTests\obj\Debug\net5.0\DataBaseCalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataBaseCalculatorTests\obj\Debug\net5.0\DataBaseCalculatorTests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataBaseCalculatorTests\obj\Debug\net5.0\DataBaseCalculatorTests.csproj.CoreCompileInputs.cache

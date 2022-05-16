@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\bin\Debug\net5.0\DataDrivenProject.deps.json
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\bin\Debug\net5.0\DataDrivenProject.dll
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\bin\Debug\net5.0\ref\DataDrivenProject.dll
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\bin\Debug\net5.0\DataDrivenProject.pdb
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.dll
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\ref\DataDrivenProject.dll
+C:\Users\Admin\Desktop\DataDrivenRepo-main\DataDrivenProject\DataDrivenProject\obj\Debug\net5.0\DataDrivenProject.pdb

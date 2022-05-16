@@ -1,32 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj": {}
   },
   "projects": {
-    "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj": {
+    "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj",
         "projectName": "DataDrivenProject",
-        "projectPath": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\DataDrivenProject\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataDrivenProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net472": {
+            "targetAlias": "net472",
             "projectReferences": {}
           }
         },
@@ -37,53 +41,42 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj": {
+    "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj",
         "projectName": "NormalCalculatorTests",
-        "projectPath": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\NormalCalculatorTests\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\NormalCalculatorTests\\NormalCalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\NormalCalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net472"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net472": {
+            "targetAlias": "net472",
             "projectReferences": {
-              "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj": {
-                "projectPath": "G:\\Repositories\\DataDrivenRepo\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj"
+              "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\DataDrivenRepo-main\\DataDrivenProject\\DataDrivenProject\\DataDrivenProject.csproj"
               }
             }
           }
@@ -95,8 +88,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net472": {
+          "targetAlias": "net472",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -104,7 +97,7 @@
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[2.2.10, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -115,22 +108,7 @@
               "version": "[3.1.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
